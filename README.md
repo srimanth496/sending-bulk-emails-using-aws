@@ -8,6 +8,9 @@ in this project sending bulk emails by using SES to domain by using name records
 .In the amazon console opened SNS craeted identity
 ![Screenshot 2024-03-27 105845](https://github.com/srimanth496/sending-bulk-emails-using-aws/assets/84217751/c0174c6c-b27f-4abd-a5d0-36d12f9840a5)
 
+![image](https://github.com/srimanth496/sending-bulk-emails-using-aws/assets/84217751/53cf1bd0-bb3d-4eb5-b01c-7bfa04c75fc0)
+
+
 
 sending emails to the domain mysample wqebsite is my dns domain.
 ![image](https://github.com/srimanth496/sending-bulk-emails-using-aws/assets/84217751/42dc9c1d-03b6-4c04-97b3-ed3cfd091f17)
